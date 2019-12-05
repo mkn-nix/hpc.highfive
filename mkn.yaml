@@ -1,0 +1,4 @@
+
+name: hpc.highfive
+inc:  h/include
+# enable MPI with -DH5_HAVE_PARALLEL
